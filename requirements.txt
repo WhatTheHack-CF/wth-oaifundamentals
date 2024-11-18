@@ -5,13 +5,13 @@ num2words==0.5.12
 openai==0.27.2
 pdfminer==20191125
 plotly==5.10.0
-tiktoken==0.4.0
+tiktoken==0.5.2
 scikit-learn
 pandas
 langchain
 PyPDF3
 spacy
-matplotlib
-scipy
-datasets
+matplotlib==3.9.2
+scipy==1.14.0
+datasets==3.1.0
 evaluate
